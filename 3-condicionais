@@ -1,0 +1,14 @@
+//condicionais
+
+//idade para dirigir == 18;
+//carteira de motorista
+let idade = 18;
+
+let carteirademotorista = true;
+
+if(idade >= 18 && carteirademotorista == true){
+    console.log("pode dirigir")
+}else{
+    console.log("não pode dirigir")
+
+}
